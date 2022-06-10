@@ -1,0 +1,22 @@
+D:\Рассохин.И.Д 21ИС-20\i love\obj\Debug\i love.csproj.AssemblyReference.cache
+D:\Рассохин.И.Д 21ИС-20\i love\obj\Debug\i_love.Form1.resources
+D:\Рассохин.И.Д 21ИС-20\i love\obj\Debug\i_love.Properties.Resources.resources
+D:\Рассохин.И.Д 21ИС-20\i love\obj\Debug\i_love.километража.resources
+D:\Рассохин.И.Д 21ИС-20\i love\obj\Debug\i love.csproj.GenerateResource.cache
+D:\Рассохин.И.Д 21ИС-20\i love\obj\Debug\i love.csproj.CoreCompileInputs.cache
+D:\Рассохин.И.Д 21ИС-20\i love\bin\Debug\i love.exe.config
+D:\Рассохин.И.Д 21ИС-20\i love\bin\Debug\i love.exe
+D:\Рассохин.И.Д 21ИС-20\i love\bin\Debug\i love.pdb
+D:\Рассохин.И.Д 21ИС-20\i love\obj\Debug\i love.exe
+D:\Рассохин.И.Д 21ИС-20\i love\obj\Debug\i love.pdb
+D:\Рассохин.И.Д 21ИС-20\i love\obj\Debug\i_love.Form2.resources
+D:\Рассохин.И.Д 21ИС-20\i love\obj\Debug\i_love.Form3.resources
+D:\Рассохин.И.Д 21ИС-20\i love\obj\Debug\i_love.Start.resources
+D:\Рассохин.И.Д 21ИС-20\i love\obj\Debug\i_love.Form4.resources
+D:\Рассохин.И.Д 21ИС-20\i love\obj\Debug\i_love.Form5.resources
+D:\Рассохин.И.Д 21ИС-20\i love\obj\Debug\i_love.Form6.resources
+D:\Рассохин.И.Д 21ИС-20\i love\obj\Debug\i_love.Form7.resources
+D:\Рассохин.И.Д 21ИС-20\i love\obj\Debug\i_love.Form8.resources
+D:\Рассохин.И.Д 21ИС-20\i love\obj\Debug\i_love.Стекло_Пакеты.resources
+D:\Рассохин.И.Д 21ИС-20\i love\obj\Debug\i_love.Доставка_груза.resources
+D:\Рассохин.И.Д 21ИС-20\i love\obj\Debug\i_love.Аренда_Автомобиля.resources
